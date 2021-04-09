@@ -1,0 +1,4 @@
+https://raesene.github.io/blog/2020/02/01/Comparing-Docker-And-Podman/
+https://iximiuz.com/en/posts/container-networking-is-simple/
+https://iximiuz.com/en/posts/journey-from-containerization-to-orchestration-and-beyond/
+https://nsjail.dev/
